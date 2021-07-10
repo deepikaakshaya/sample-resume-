@@ -6,8 +6,6 @@ Sample resume for freshers(Engineering)
  It consists of simple tags and styles.
  Easy understanding and try to make your designs.
  
- ##HTML
- ````````
  # HTML 5 (Hypertext Markup Language)
 ## Introduction
 * HTML is the standard markup language for Web pages
