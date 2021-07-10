@@ -55,7 +55,7 @@ Sample resume for freshers(Engineering)
 Tag | Description
  ------------- | -----------------------
 <!--...-- >  | Defines a comment
- < !DOCTYPE > | Defines the document type
+ 	< !DOCTYPE > | Defines the document type
 	< a > | Defines a hyperlink
 	< abbr > | Defines an abbreviation or an acronym
 	< address > | Defines contact information for the author/owner of a document
@@ -164,6 +164,6 @@ Tag | Description
 	< wbr>  | Defines a possible line-break
  
  
- ````````
+
   
  
