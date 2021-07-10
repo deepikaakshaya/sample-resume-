@@ -53,9 +53,9 @@ Sample resume for freshers(Engineering)
 
 ## Some Tag List of HTML5
 Tag | Description
-------------- | -----------------------
-	<!--...-- >  | Defines a comment
- 	< !DOCTYPE > | Defines the document type
+ ------------- | -----------------------
+<!--...-- >  | Defines a comment
+< !DOCTYPE > | Defines the document type
 	< a > | Defines a hyperlink
 	< abbr > | Defines an abbreviation or an acronym
 	< address > | Defines contact information for the author/owner of a document
